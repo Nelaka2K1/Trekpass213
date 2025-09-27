@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Trekpass2</string>
+    
+    <!-- Starting Page -->
+    <string name="trek_pass_title">Trek Pass</string>
+    <string name="trek_pass_subtitle">Your premium path awaits you.</string>
+    <string name="lets_go_button">Let\'s Go!</string>
+    <string name="sign_up_link">Sign up</string>
+    
+    <!-- Login Page -->
+    <string name="login_title">Log in</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    
+    <!-- Signup Page -->
+    <string name="signup_title">Sign up</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="signup_button">Log in</string>
+    
+    <!-- Discover Page -->
+    <string name="discover_title">Discover</string>
+    <string name="northern_mountain">Northern Mountain</string>
+    <string name="mount_fuji">Mount Fuji</string>
+    <string name="honshu_japan">Honshu, Japan</string>
+    <string name="days_text">5 Days</string>
+    <string name="description_title">Description</string>
+    <string name="mount_fuji_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim eget amet viverra eget fames rhoncus. Eget enim venenatis enim porta egestas malesuada et. Consequat mauris lacus euismod montes.</string>
+    <string name="package_price">$400/Package</string>
+    <string name="book_now_button">Book Now</string>
+    
+    <!-- Payment Page -->
+    <string name="payment_method">Payment method</string>
+    <string name="smart_card">Smart card</string>
+    <string name="amount">Amount</string>
+    <string name="pay_button">Pay</string>
+    <string name="usd_currency">USD</string>
+    
+    <!-- Profile Page -->
+    <string name="profile_title">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="schedule">Schedule</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="calendar">Calendar</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+</resources>

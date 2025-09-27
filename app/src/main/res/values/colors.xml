@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Trek Pass Colors -->
+    <color name="light_purple">#D8CFF7</color>
+    <color name="medium_purple">#7B68EE</color>
+    <color name="dark_purple">#4A4A4A</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="text_gray">#666666</color>
+    <color name="light_blue">#4A90E2</color>
+    <color name="star_yellow">#FFD700</color>
+</resources>

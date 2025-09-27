@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155518955917",
+    "project_id": "trekpass222",
+    "storage_bucket": "trekpass222.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155518955917:android:59632a5a983063e0fdcdc4",
+        "android_client_info": {
+          "package_name": "com.example.trekpass2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21TF6lk_Mml-A7jx1DIP19w1eALaTwls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
